@@ -6,3 +6,4 @@ arregloNumeros.forEach(
         console.log({value})
     }
 )
+
